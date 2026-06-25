@@ -1,5 +1,5 @@
 Hi, I'm Snigdha 
-
+ 
  Education
 
 B.Tech in Computer Science and Engineering (AI & ML)
